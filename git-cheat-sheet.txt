@@ -1,0 +1,2 @@
+show - view expanded details 
+log - lists the commits made 
