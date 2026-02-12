@@ -6,3 +6,7 @@
 *.o
 *.so
 build/
+Debug/
+Release/
+x64/
+.vs/
