@@ -1,0 +1,6 @@
+C:/Users/ivanh/2025_20688156/worksheet4/Calc/build/CMakeFiles/maths_static.dir
+C:/Users/ivanh/2025_20688156/worksheet4/Calc/build/CMakeFiles/maths_shared.dir
+C:/Users/ivanh/2025_20688156/worksheet4/Calc/build/CMakeFiles/calc_static.dir
+C:/Users/ivanh/2025_20688156/worksheet4/Calc/build/CMakeFiles/calc_dynamic.dir
+C:/Users/ivanh/2025_20688156/worksheet4/Calc/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/ivanh/2025_20688156/worksheet4/Calc/build/CMakeFiles/ZERO_CHECK.dir
